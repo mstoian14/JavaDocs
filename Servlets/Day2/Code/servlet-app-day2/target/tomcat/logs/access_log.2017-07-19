@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [19/Jul/2017:17:09:41 +0300] "GET /servlet-app-day2/exportFile.jsp HTTP/1.1" 200 1496 http-bio-8080-exec-2 936
+0:0:0:0:0:0:0:1 - - [19/Jul/2017:17:09:43 +0300] "GET /servlet-app-day2/exportfile?template=UsernameReport&Type=pdf&username=fdsfs HTTP/1.1" 500 2197 http-bio-8080-exec-3 138
+0:0:0:0:0:0:0:1 - - [19/Jul/2017:17:15:57 +0300] "GET /servlet-app-day2/exportfile?template=UsernameReport&Type=pdf&username=fdsfs HTTP/1.1" 500 2197 http-bio-8080-exec-4 6
+0:0:0:0:0:0:0:1 - - [19/Jul/2017:17:29:30 +0300] "GET /servlet-app-day2/exportfile?template=UsernameReport&Type=pdf&username=fdsfs HTTP/1.1" 500 2197 http-bio-8080-exec-5 5
